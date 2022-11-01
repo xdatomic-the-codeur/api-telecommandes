@@ -1,2 +1,2 @@
-# api-decodeurs-orange
-La documentation est disponible sur le wiki
+# api-telecommandes
+Le wiki montre les api pour les télécommandes réseau de nos téléviseurs
